@@ -26,16 +26,16 @@ After using Python along with VS Code to analyze the data of the elections we co
 
 - The total number of votes as well as their percentage for each county as presented below shows that the county with the largest number of votes is Denver.
 
--- Jefferson: 10.5% (38,855)
-Denver: 82.8% (306,055)
-Arapahoe: 6.7% (24,801)
+ - Jefferson: 10.5% (38,855)
+ - Denver: 82.8% (306,055)
+ - Arapahoe: 6.7% (24,801)
 
 - The three candidates along with their number of votes and the percentage of the total votes received as show below demonstrates that the winner of the election is 
 Diana DeGette. With a total number of votes of 272.892 and a total percentage of votes of 73.8%, candidate DeGette outperformed her competitors by more than doubling their results.
 
-Charles Casper Stockham: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
-Raymon Anthony Doane: 3.1% (11,606)
+ - Charles Casper Stockham: 23.0% (85,213)
+ - Diana DeGette: 73.8% (272,892)
+ - Raymon Anthony Doane: 3.1% (11,606)
 
 Shown below we share a picture of the final results after collecting the data from the Election_Results.csv file. 
 
