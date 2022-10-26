@@ -39,6 +39,5 @@ Diana DeGette. With a total number of votes of 272.892 and a total percentage of
 
 Shown below we share a picture of the final results after collecting the data from the Election_Results.csv file. 
 
-
-#![VBA_Challenge_2017 png](https://user-images.githubusercontent.com/113261292/196856818-c27a2120-7525-4c36-9a15-d325d84652e0.png)
+![Election_Results](https://user-images.githubusercontent.com/113261292/197932906-c53d5c9b-789a-49d7-9164-170b75e90c4d.jpg)
 
