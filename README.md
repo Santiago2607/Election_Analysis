@@ -26,7 +26,7 @@ After using Python along with VS Code to analyze the data of the elections we co
 
 - The total number of votes as well as their percentage for each county as presented below shows that the county with the largest number of votes is Denver.
 
-Jefferson: 10.5% (38,855)
+-- Jefferson: 10.5% (38,855)
 Denver: 82.8% (306,055)
 Arapahoe: 6.7% (24,801)
 
