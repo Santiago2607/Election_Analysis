@@ -1,9 +1,30 @@
 # Election_Analysis
-Durante este proyecto, se nos encargo la tarea de asistir a un empleado de la junta electoral de Colorado, Tom, a encontrar una forma mas eficiente y rapida utilizando Python de analizar los datos de conteo tanto como mail-in ballots, punch cards, and direct recording electronic, para lograr seleccionar al nuevo congresal. 
-Para poder lograr este objetivo sin ningun problema, se nos indico ciertos puntos claves a analizar y detallar para lograr un mejor resultado. Estos puntos claves son:
+
+## Overview of Election Audit
+
+During this project, we were tasked with assisting an employee of the Colorado board of elections, Tom, to find a more efficient and faster way to use Python to analyze count data such as mail-in ballots, punch cards, and direct recording electronic, to be able to select the new congressman.
+In order to achieve this goal without any problem, we were told certain key points to analyze and detail to achieve a better result. These key points are:
 
  1. Get the total number of votes cast.
  2. Get the complete list of candidates who received votes.
  3. Get the percentage of votes each candidate won.
  4. Get the total number of votes each candidate won.
  5. Announce the winner of election based on popular vote.
+ 
+## Resources
+
+The resources we use for this analysis were:
+
+- Election_Results.csv file to analyze and compile the great amount of data presented on it.
+- Software Versions: Python 3.9.12 and Visual Studio Code 1.72.2
+
+## Election-Audit Results
+
+After using Python along with VS Code to analyze the data of the elections we could gather the following data:
+
+- The total amount of votes cast in this congressional election were 369,711.
+- 
+-
+-
+-
+
